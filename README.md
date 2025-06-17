@@ -55,7 +55,7 @@ The primary goal is to enable real-time monitoring and anomaly detection of hous
 ### **Prerequisites:**  
 - ESP32 Board & PZEM-004T Sensor  
 - AWS Account (IoT Core, DynamoDB, Sagemaker)  
-- Python 3.x Environment  
+- Python 3 Environment  
 
 ---
 
